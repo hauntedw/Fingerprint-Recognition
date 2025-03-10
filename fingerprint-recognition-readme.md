@@ -108,7 +108,3 @@ ridge_endings_2, bifurcations_2 = describe(en_fingerprint_2, mask_2, view=True)
 
 match = match(en_fingerprint_1, ridge_endings_1, bifurcations_1, en_fingerprint_2, ridge_endings_2, bifurcations_2, view=True)
 ```
-
-## License
-
-This code is provided for educational and research purposes.
